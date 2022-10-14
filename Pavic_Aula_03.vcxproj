@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AULA03.cpp" />
-    <ClCompile Include="Origem.cpp" />
-    <ClCompile Include="AULA04.cpp" />
-    <ClCompile Include="AULA05.cpp" />
+    <ClCompile Include="AULA06_LOCK.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
